@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17ca58c1-d0e0-4cda-af75-ddb93f64345f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/storeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/CourseOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/TwoDarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/asending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/asendingno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/evenNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/maxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/ExceptionDEmo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/ExceptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/ExceptionDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program/Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectClass/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectClass1/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectClass2/WrapperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectClass2/WrapperDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectClass3/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/p9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternArray/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternArray/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternArray/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternproject/pp80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programingTest1/que1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programingTest1/que2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programingTest1/que3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programingTest1/que4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programingTest1/que5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/StoreBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/setDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KXvNmZsDIHwEod8Wncbjo9MxUM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Shubh/IdeaProjects/myfirstproject/src"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.A3">
+    <configuration name="A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternArray.A1" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternArray.A2" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternArray.A3" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pp79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternproject.pp79" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pp80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternproject.pp80" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A3" />
+        <item itemvalue="Application.A2" />
+        <item itemvalue="Application.A1" />
+        <item itemvalue="Application.pp79" />
+        <item itemvalue="Application.pp80" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ca58c1-d0e0-4cda-af75-ddb93f64345f" name="Changes" comment="" />
+      <created>1674133704899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674133704899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp10.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p7.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p11.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p12.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p13.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p15.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp13.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp14.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp15.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pattern16.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp18.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/objectClass2/WrapperDemo2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp19.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p19.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp21.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p16.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp24.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp27.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp29.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp36.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp39.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp42.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp45.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p74.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p61.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p20.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p20.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p47.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/p45.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp49.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp50.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp51.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/asendingno.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp54.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp58.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp59.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/array.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExceptionHandling/ExceptionDemo2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExceptionHandling/ExceptionDemo3.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList/ArrayListDemo1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Demo1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp66.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp69.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp71.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp72.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/programingTest1/que4.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/programingTest1/que5.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/programingTest1/que3.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/set/setDemo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp74.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp75.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternproject/pp79.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternArray/A1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patternArray/A2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp11.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp11" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pattern/p3.java</url>
+          <line>3</line>
+          <properties class="pattern.p3" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/objectClass1/StringDemo.java</url>
+          <line>3</line>
+          <properties class="objectClass1.StringDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/objectClass2/WrapperDemo2.java</url>
+          <line>3</line>
+          <properties class="objectClass2.WrapperDemo2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pattern/p19.java</url>
+          <line>3</line>
+          <properties class="pattern.p19" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp20.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp20" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp32.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp32" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp34.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp34" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp37.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp37" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp46.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp46" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp47.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp47" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pattern/p47.java</url>
+          <line>3</line>
+          <properties class="pattern.p47" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pattern/p44.java</url>
+          <line>3</line>
+          <properties class="pattern.p44" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp54.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp54" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/TwoElement.java</url>
+          <line>3</line>
+          <properties class="Array.TwoElement" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/main.java</url>
+          <line>5</line>
+          <properties class="Array.main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp64.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp64" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp71.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp71" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp72.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp72" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/programingTest1/que4.java</url>
+          <line>3</line>
+          <properties class="programingTest1.que4" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/programingTest1/que5.java</url>
+          <line>3</line>
+          <properties class="programingTest1.que5" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternproject/pp79.java</url>
+          <line>3</line>
+          <properties class="patternproject.pp79" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternArray/A1.java</url>
+          <line>3</line>
+          <properties class="patternArray.A1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/patternArray/A2.java</url>
+          <line>3</line>
+          <properties class="patternArray.A2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
